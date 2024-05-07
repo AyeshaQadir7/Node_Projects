@@ -1,0 +1,33 @@
+{
+  "name": "@ayesha07/adventure-game07",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ayesha07/adventure_game": "^1.0.0",
+    "@ayesha07/adventure-game07": "^1.0.1",
+    "cfonts": "^3.2.0",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "cli-adventure_game07": "^1.0.0",
+    "cli-adventure-game07": "^1.0.1",
+    "ink-text-animation": "^0.1.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.8"
+  }
+}
